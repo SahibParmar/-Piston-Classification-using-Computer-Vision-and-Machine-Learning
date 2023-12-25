@@ -11,4 +11,4 @@ Overview
 
 **Results**
 
-The trained model achieves an accuracy of X% on the test set and demonstrates robustness in identifying piston defects.
+The trained model achieves an accuracy of 91% on the test set and demonstrates robustness in identifying piston defects.
